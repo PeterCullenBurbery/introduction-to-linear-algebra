@@ -1,0 +1,70 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1807,         62]
+NotebookOptionsPosition[      1189,         42]
+NotebookOutlinePosition[      1608,         58]
+CellTagsIndexPosition[      1565,         55]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["What is Linear Algebra?", "Title",
+ CellChangeTimes->{
+  3.8791134391262245`*^9, {3.8791135670796223`*^9, 
+   3.879113575926615*^9}},ExpressionUUID->"cf573ced-c3bb-4af8-b544-\
+0e0c7d70c664"],
+
+Cell[CellGroupData[{
+
+Cell["Exercises", "Section",
+ CellChangeTimes->{{3.8791135892206087`*^9, 
+  3.879113590695611*^9}},ExpressionUUID->"33515b37-f384-4280-85fe-\
+bb96259324a9"],
+
+Cell["There aren\[CloseCurlyQuote]t any exercises in section 1.", "Text",
+ CellChangeTimes->{{3.8791136087636137`*^9, 
+  3.879113618744799*^9}},ExpressionUUID->"8cc19caa-75e8-40b2-bf03-\
+f32347ae72e5"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{574.8, 609.6},
+WindowMargins->{{Automatic, -4.7999999999999545`}, {Automatic, 0}},
+FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (June 16, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"353633b4-d023-4d8c-b02d-30fc65c13474"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 196, 4, 98, "Title",ExpressionUUID->"cf573ced-c3bb-4af8-b544-0e0c7d70c664"],
+Cell[CellGroupData[{
+Cell[801, 30, 156, 3, 67, "Section",ExpressionUUID->"33515b37-f384-4280-85fe-bb96259324a9"],
+Cell[960, 35, 201, 3, 35, "Text",ExpressionUUID->"8cc19caa-75e8-40b2-bf03-f32347ae72e5"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
